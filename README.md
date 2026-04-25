@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور حياتي في صمت الليل
+> نوركَ ساطع مثل الدليل
+> أنتِ الفرحة وأنتِ الشفاء
+> أنتَ الشفاء
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
