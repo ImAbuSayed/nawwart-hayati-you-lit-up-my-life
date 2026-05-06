@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nawwart-hayati-you-lit-up-my-life/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Nawwart Hayati – You lit up my life.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
