@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nawwart Hayati – You lit up my life.
+
+This log tracks the cryptographic history and versioning for the song **Nawwart Hayati – You lit up my life.** (nawwart-hayati-you-lit-up-my-life).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:18:36.448955 | `v1` | `a7dd999ff560c62e0438fcf32dd6a5b582bbae6c88762862c2849aab0bf6a15e` | `03b3706be2339c2f69be14b8d6df426423605198db4f87d939be620354acabe8` | `2026-05-09_nawwart-hayati-you-lit-up-my-life-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
